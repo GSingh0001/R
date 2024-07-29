@@ -1,6 +1,3 @@
-Thanks for clarifying. Here is the structured summary and description for your GitHub repository's README file based solely on the provided content from the PDFs:
-
-```markdown
 # Refugee Movements Analysis and Visualization
 
 ## Overview
@@ -115,17 +112,13 @@ my_plot <- ggplot() +
 # Convert ggplot to plotly for interactivity
 my_plotly <- ggplotly(my_plot, tooltip = "text")
 my_plotly
-```
 
-## Conclusion
+
+Conclusion
 This project provides valuable insights into the refugee crisis in Asia, highlighting the significant contributions refugees can make to host countries. The visualizations offer a clear and impactful way to understand refugee movements and the underlying geopolitical factors.
 
 Feel free to explore the R scripts and reach out with any questions or feedback.
 
-## Contact
-- **Ganga Singh:** [LinkedIn](https://www.linkedin.com/in/g-singh-01/)
-- **Project Repository:** [GitHub](https://github.com/GSingh0001)
-
-```
-
-This README file includes a comprehensive overview, project details, descriptions of the functions, usage examples, and contact information, making it easy for others to understand and use your code. Let me know if you need any adjustments or additional details!
+Contact
+Ganga Singh: LinkedIn
+Project Repository: GitHub
